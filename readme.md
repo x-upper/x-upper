@@ -1,8 +1,8 @@
 
-# hi there!
+## lang stat
 normal
 
-![top lang stat](https://github-readme-stats.vercel.app/api/top-langs/?username=gnab&theme=tokyonight)
+![top lang stat](https://github-readme-stats.vercel.app/api/top-langs/?username=gnab&theme=tokyonight&show_icons=true)
 
 compact
 
@@ -17,3 +17,6 @@ pie
 
 ![top lang stat](https://github-readme-stats.vercel.app/api/top-langs/?username=gnab&layout=pie&theme=tokyonight)
 
+## profile stat
+
+![profile stat]https://github-readme-stats.vercel.app/api?username=vamsi3&hide=issues,contribs&show_icons=true&theme=ayu-mirage&hide_rank=true
