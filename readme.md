@@ -23,4 +23,6 @@ pie
 
 ## profile stat
 
+![profile stat](https://github-readme-stats.vercel.app/api?username=cure53&show_icons=true&theme=tokyonight)
+
 ![profile stat](https://github-readme-stats.vercel.app/api?username=cure53&hide=issues,contribs&show_icons=true&theme=tokyonight)
