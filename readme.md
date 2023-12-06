@@ -6,11 +6,15 @@ normal
 
 compact
 
-![top lang stat](https://github-readme-stats.vercel.app/api/top-langs/?username=gnab&layout=compact&theme=tokyonight)
+![top lang stat](https://github-readme-stats.vercel.app/api/top-langs/?username=gnab&layout=compact&theme=tokyonight&show_icons=true)
 
 donut
 
 ![top lang stat](https://github-readme-stats.vercel.app/api/top-langs/?username=gnab&layout=donut&theme=tokyonight)
+
+donut
+
+![top lang stat](https://github-readme-stats.vercel.app/api/top-langs/?username=gnab&layout=donut-vertical&theme=tokyonight)
 
 
 pie
@@ -19,4 +23,4 @@ pie
 
 ## profile stat
 
-![profile stat](https://github-readme-stats.vercel.app/api?username=gnab&hide=issues,contribs&show_icons=true&theme=tokyonight&hide_rank=true)
+![profile stat](https://github-readme-stats.vercel.app/api?username=gnab&hide=issues,contribs&show_icons=true&theme=tokyonight)
