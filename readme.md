@@ -26,3 +26,27 @@ pie
 ![profile stat](https://github-readme-stats.vercel.app/api?username=cure53&show_icons=true&theme=tokyonight)
 
 ![profile stat](https://github-readme-stats.vercel.app/api?username=cure53&hide=issues,contribs&show_icons=true&theme=tokyonight)
+
+
+profile summary card
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gnab&theme=tokyonight)
+
+repo per lang
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gnab&theme=tokyonight)
+
+most commit lang
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gnab&theme=tokyonight)
+
+profile details
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gnab&theme=tokyonight)
+
+user streak stat
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=gnab)
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=arthurspk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff)
