@@ -19,4 +19,4 @@ pie
 
 ## profile stat
 
-![profile stat]https://github-readme-stats.vercel.app/api?username=vamsi3&hide=issues,contribs&show_icons=true&theme=ayu-mirage&hide_rank=true
+![profile stat](https://github-readme-stats.vercel.app/api?username=gnab&hide=issues,contribs&show_icons=true&theme=tokyonight&hide_rank=true)
